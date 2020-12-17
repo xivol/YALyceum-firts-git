@@ -8,9 +8,9 @@ import csv
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')
-    print(f'Hi, {name}')
-    print(f'Hi, {name}')
+    print(f'SUPER, {name}')
+    print(f'SUPER, {name}')
+    print(f'SUPER, {name}')
     print(f'Hi, {name}')
     print(f'Hi, {name}')
     print(f'Hi, {name}')
